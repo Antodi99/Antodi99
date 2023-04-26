@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-livid-eight-18.vercel.app/api?username=antodi99&show_icons=true&theme=dark&locale=en" alt="antodi99" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=antodi99&theme=dark" alt="antodi99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antodi99&theme=dark" alt="antodi99" /></p>
