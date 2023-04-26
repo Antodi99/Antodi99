@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🔥, I'm Anton</h1>
-<h3 align="center">my homeland is Belarus🏡</h3>
+<h3 align="center">My homeland is Belarus🏡</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
 
