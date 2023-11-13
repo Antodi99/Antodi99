@@ -4,11 +4,9 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats-smxs-mlazwhop5-antodi99.vercel.app/api/top-langs?username=antodi99&show_icons=true&theme=dark&locale=en&layout=compact" alt="antodi99" /></p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=antodi99&theme=dark" alt="antodi99" />
-
-<p>
-  
 [![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=Antodi99&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars) &nbsp;
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=antodi99&theme=dark" alt="antodi99" />
+<p><img align="left" src="https://github-readme-stats-smxs-mlazwhop5-antodi99.vercel.app/api/top-langs?username=antodi99&show_icons=true&theme=dark&locale=en&layout=compact" alt="antodi99" /></p>
 <img src="https://github-readme-stats-smxs-mlazwhop5-antodi99.vercel.app/api?username=antodi99&show_icons=true&theme=dark&locale=en" alt="antodi99" />
-</p>
+
