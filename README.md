@@ -69,7 +69,7 @@ I have experience in these spheres:
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <p><a href="https://github.com/antodi99/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=antodi99&amp;count_private=true&theme=dark#gh-dark-mode-only" alt="antodi99;s GitHub stats" style="height: 180px;"></a>
 <a href="https://github.com/antodi99"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antodi99&amp;hide=html&amp;layout=compact&theme=dark#gh-dark-mode-only" alt="Top Langs" style="height: 180px;"></a></p>
