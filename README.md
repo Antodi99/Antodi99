@@ -12,7 +12,7 @@ I have experience in these spheres:
 - Utilized OAuth 2.0 Authentication with GitHub and JWT
 
 ### 📮 Contact with me
-**[Gmail](http://rubchenko.anton@gmail.com/) - [LinkedIn](https://www.linkedin.com/in/anton-rubchenko/) - [CodeWars](https://www.codewars.com/users/Antodi99) - [LeetCode](https://leetcode.com/Antodi99/)**
+**[Gmail](http://rubchenko.anton@gmail.com/) - [LinkedIn](https://www.linkedin.com/in/anton-rubchenko/)**
 
 ---
 
