@@ -8,7 +8,7 @@ I have experience in these spheres:
 
 - Creating reliable frontend components using React.js, Typescript and Next.js
 - Worked with React.js micro-frontend and maintained a couple of pieces of application and components
-- Handling CRUD operations, sorting, filtering and pagination for various needs.
+- Handling CRUD operations, sorting, filtering and pagination for various needs
 - Developed a backend for frontend layer using Node.js and TypeScript to optimize data fetching and tailor API responses to the needs of different frontend micro-applications
 - Designing a complex database schema for both SQL and NoSQL for various tasks
 - Covered functionality with unit tests and integration tests using Jest, Vitest and React Testing Library
