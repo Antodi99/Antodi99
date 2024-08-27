@@ -1,15 +1,19 @@
 ## 🎲 Anton Rubchenko
 
-**`Antodi9 (Software Engineer/Creator)`**
+**`Antodi9 (SE/Creator)`**
 
-Hello! My name is Anton. I am an Aspiring Software Engineer who seeks to design and implements scalable and reliable software systems. My expertise in JavaScript and TypeScript has allowed me to create robust and efficient client-side applications, while my knowledge of React.js has enabled me to develop dynamic and intuitive user interfaces. I thrive in collaborative environments where I can work with other talented professionals to create innovative solutions. If you are looking for an Aspiring Software Engineer who is passionate about creating cutting-edge and reliable solutions, I would be thrilled to connect with you.
+Hello! My name is Anton. I am a Software Engineer dedicated to designing and implementing scalable and reliable software systems. Here you can review and evaluate my pet-projects that I have worked on. I thrive in collaborative environments, working with other talented professionals to create innovative solutions. If you are looking for a Software Engineer who is passionate about creating cutting-edge and reliable solutions, I would be thrilled to connect with you.
 
 I have experience in these spheres:
 
-- Developed a dynamic web app, including web page, database, and server to process data
-- Added functionality to allow user to create, update and delete (CRUD)
-- Covered functionality with unit tests using Jest, React Testing Library
-- Utilized OAuth 2.0 Authentication with GitHub and JWT
+- Creating reliable frontend components using React.js, Typescript and Next.js
+- Worked with React.js micro-frontend and maintained a couple of pieces of application and components
+- Handling CRUD operations, sorting, filtering and pagination for various needs.
+- Developed a backend for frontend layer using Node.js and TypeScript to optimize data fetching and tailor API responses to the needs of different frontend micro-applications
+- Designing a complex database schema for both SQL and NoSQL for various tasks
+- Covered functionality with unit tests and integration tests using Jest, Vitest and React Testing Library
+- Improved performance and user experience by minimizing redundant data transfers and processing
+- Documenting code and maintaining good VC practices, improve the quality and stability of the code
 
 ### 📮 Contact with me
 **[Gmail](http://rubchenko.anton@gmail.com/) - [LinkedIn](https://www.linkedin.com/in/anton-rubchenko/)**
