@@ -7,7 +7,7 @@ Hello! My name is Anton. I am a Software Engineer dedicated to designing and imp
 I have experience in these spheres:
 
 - Backend: Developing scalable microservices and RESTful APIs using Node.js, Express.js, PHP, and Symfony, focusing on performance and maintainability
-- Frontend**: Building Vue 3, Nuxt, React, and Next.js applications with Tailwind CSS and SSR optimizations
+- Frontend: Building Vue 3, Nuxt, React, and Next.js applications with Tailwind CSS and SSR optimizations
 - DevOps & Cloud: Setting up AWS (EC2, S3, RDS, CloudWatch, VPC), managing Docker CI/CD pipelines, and optimizing cloud infrastructure
 - Databases: Experience with MySQL, PostgreSQL, MongoDB, MariaDB, Redis and Memcached, ensuring scalability and efficiency
 - Testing & Code Quality: Writing unit and integration tests with Jest, Vitest, React Testing Library, ensuring stability and reliability
